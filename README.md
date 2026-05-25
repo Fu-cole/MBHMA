@@ -35,7 +35,7 @@
 |--------|---------------|--------------------------|------------------------------------|
 | 成员1  | @KANGJINGWEN0803| 数据清洗与探索性分析     | `Code/member1_data_cleaning.R`     |
 | 成员2  | @Xushining1220  | Langmuir 模型拟合        | `Code/member2_langmuir.R`          |
-| 成员3  | @member3      | Hill 模型拟合            | `Code/member3_hill.R`              |
+| 成员3  | @cyx-coco      | Hill 模型拟合            | `Code/member3_hill.R`              |
 | 成员4  | @Hackysaw     | 统计比较（z 检验）       | `Code/member4_statistical_tests.R` |
 | 成员5  | @Fu-cole      | 可视化与报告整合         | `Code/run_full_analysis.R`（以及报告文档） |
 
